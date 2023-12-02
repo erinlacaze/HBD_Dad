@@ -3,6 +3,9 @@ Happy Birthday, Dad!
 A Happy Birthday animation design in CSS3, HTML5.
 
 # Setup
+```
+git clone https://github.com/erinlacaze/HBD_Dad.git
+```
 
 ## Have python installed:
 ```
